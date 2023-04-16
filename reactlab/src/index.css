@@ -5,14 +5,30 @@
         'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
         'Helvetica Neue', sans-serif;
     box-sizing: border-box;
-    color: #393c41;
+    color: #242525;
 }
 
 body {
     width: 100%;
+    background-color: #ffffff;
 }
 
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
         monospace;
+}
+
+/* NavBar */
+
+#Nav\.Link {
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    margin: 10px 20px;
+}
+
+#navLogo {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
 }

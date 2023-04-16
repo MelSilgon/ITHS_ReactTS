@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "slideLabel": "40% Off Lensabl",
+        "slideText": "Only for this week",
+        "slideImg": "slide_01b.jpg"
+    },
+    {
+        "id": 2,
+        "slideLabel": "Summer time",
+        "slideText": "Check out our latest sunglasses.",
+        "slideImg": "slide_02c.jpg"
+    },
+    {
+        "id": 3,
+        "slideLabel": "Daily or monthly contacts?",
+        "slideText": "Read our guide for choosing contact lenses",
+        "slideImg": "slide_04.jpg"
+    },
+    {
+        "id": 4,
+        "slideLabel": "Eye care",
+        "slideText": "Book an eye test.",
+        "slideImg": "slide_03b.jpg"
+    }
+]
